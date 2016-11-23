@@ -25,11 +25,14 @@ github_username:  ezzzio
 
 # Build settings
 markdown: kramdown
+highlighter:rough
+
 theme: minima
-gems:
-  - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
 #
 port: 5001
+
+

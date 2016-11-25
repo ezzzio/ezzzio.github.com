@@ -35,4 +35,6 @@ exclude:
 #
 port: 5001
 
+paginate: 10
+paginate_path: "page:num"
 
